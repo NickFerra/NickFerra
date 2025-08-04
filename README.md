@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Four years experience unsing SuiteScript and NetSuite
+- Four years experience using SuiteScript and NetSuite
 - 🌱 Completed the Master: Coding course with Code Nation 
 - 🔭 Covered React, Javascript, HTML, CSS, DOM, Python and API
 - 👯 I’m looking to collaborate on any project which will further improve my understanding
